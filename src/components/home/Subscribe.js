@@ -44,40 +44,8 @@ const StyledSubscribe = styled.section`
             padding: 4rem 1rem;
 
 
-             .input-group {
-                  display: flex;
-                  align-items:center;
-                  justify-content: space-between;
-                  background-color: var(--light-color);
-                  border-radius:100px !important;
-                  padding-right:4px;
-                  margin-top:3rem;
-
-                  input {
-                        width: 100%;
-                        padding: 12px 20px;
-                        margin: 0;
-                        display: inline-block;
-                        border: none;
-                        box-sizing: border-box;
-                        font-size: 13px;
-                        line-height: 24px;
-                        color: var(--dark-color);
-                        box-shadow: none;
-                        margin-bottom: 0 !important;
-                        background-color: none;
-                        border-radius:100px;
-
-                        ::placeholder{
-                              color: var(--grey-bold-color);
-                        }
-                  }
-                  button {
-                        line-height: 1.5 !important;
-                        border-radius:100px !important;
-                        box-shadow:none !important;
-
-            }
+            img {
+                  height:100%;
             }
       }
 

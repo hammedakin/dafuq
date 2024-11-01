@@ -57,7 +57,7 @@ const StyledScrollToTop = styled.div`
 
  button {
   background-color: var(--sec-color);
-  color: var(--pry-bold-color);
+  color: var(--dark-color);
   border: none;
   border-radius: 50%;
   width: 40px;
